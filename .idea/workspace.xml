@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a946a3de-e7a0-4fa9-a2ca-53c5fdcef1eb" name="Default Changelist" comment="" />
+    <list default="true" id="a946a3de-e7a0-4fa9-a2ca-53c5fdcef1eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +49,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -74,12 +79,13 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/kingstar-banana-cicd/kingstar-banana" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -145,6 +151,7 @@
       <workItem from="1589528961316" duration="506000" />
       <workItem from="1591263694761" duration="486000" />
       <workItem from="1591264620896" duration="1795000" />
+      <workItem from="1591278228614" duration="266000" />
     </task>
     <servers />
   </component>
@@ -176,6 +183,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1589166046741" />
+    <state x="589" y="151" key="CommitChangelistDialog2" timestamp="1591278586891">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="589" y="151" key="CommitChangelistDialog2/0.0.2048.1122@0.0.2048.1122" timestamp="1591278586891" />
     <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1589281839070">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -240,10 +251,11 @@
     </state>
     <state width="2005" height="579" key="GridCell.Tab.2.right/-1920.350.1536.834/0.0.2048.1122@0.0.2048.1122" timestamp="1591267024948" />
     <state width="1493" height="403" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1589529467144" />
-    <state x="270" y="59" key="SettingsEditor" timestamp="1589274575542">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="360" y="79" key="SettingsEditor" timestamp="1591278500399">
+      <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="270" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1589274575542" />
+    <state x="360" y="79" key="SettingsEditor/0.0.2048.1122@0.0.2048.1122" timestamp="1591278500399" />
     <state x="162" y="7" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589161809703">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
